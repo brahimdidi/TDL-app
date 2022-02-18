@@ -19,10 +19,10 @@ const body = document.querySelector('body');
 body.appendChild(container);
 
 const myTasks = [];
-myTasks.push(new Task('Eat', false, 0));
-myTasks.push(new Task('Sleep', false, 1));
+myTasks.push(new Task('run', false, 0));
+myTasks.push(new Task('train', false, 1));
 myTasks.push(new Task('Code', false, 2));
-myTasks.push(new Task('Repeat', false, 3));
+myTasks.push(new Task('rest', false, 3));
 
 myTasks.forEach((task) => {
   ul.appendChild(taskContainer(task));
