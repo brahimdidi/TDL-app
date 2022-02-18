@@ -3,7 +3,7 @@ export default function refresher() {
   refresherContainer.classList.add('refresher', 'di', 'btm-bdr');
 
   const text = document.createElement('p');
-  text.textContent = "to Do for today";
+  text.textContent = 'to Do for today';
 
   const refresh = document.createElement('i');
   refresh.classList.add('fas', 'fa-sync');
