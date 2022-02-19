@@ -1,19 +1,26 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+## Brahim Todo list project
+> To do list project, 
 
-> Description the project.
+In this project you can save you wishing to do list.
+we will use webpack to bundle javascript and create the
+dynamic website with many functions
 
+![screenshot](projectImage.jpeg)
+
+Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages ##css html js
+- Frameworks ##vscode
+- Technologies used webpack
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://brahimdidi.github.io/TDL-app/dist/index.html)
 
 
 ## Getting Started
@@ -25,18 +32,24 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+none
 
 ### Setup
 
 ### Install
+clone the repo, open it with your code editor 
+suggested vscode browse the web.
+you can install webpack and run npm run build to generate the code
+and you are ready
 
 ### Usage
 
 ### Run tests
+no needs
 
 ### Deployment
 
-
+you can see the live demo up.
 
 ## Authors
 
@@ -45,6 +58,7 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+brahim didi
 
 👤 **Author2**
 
