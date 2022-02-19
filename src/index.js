@@ -4,7 +4,7 @@ import refresher from './refresher.js';
 import form from './form-inputs.js';
 import taskContainer from './new-task.js';
 import clearButton from './clear-task.js';
-import Task from './task-adder';
+import Task from './task-adder.js';
 
 const ul = document.createElement('ul');
 ul.classList.add('task-list', 'dc');
