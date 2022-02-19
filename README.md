@@ -20,7 +20,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://brahimdidi.github.io/Todolist-App/dist/index.html)
+[Live Demo Link](https://brahimdidi.github.io/TDL-app/dist/index.html)
 
 
 ## Getting Started
